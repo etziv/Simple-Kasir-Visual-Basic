@@ -1,0 +1,20 @@
+C:\Users\Zesha\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Zesha\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Zesha\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\Zesha\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+C:\Users\Zesha\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\Zesha\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\AppKasir.vbproj.GenerateResource.Cache
+C:\Users\Zesha\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Zesha\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Zesha\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Hanif\Documents\Matkul\MATKUL\SMT II\PemVis\UTS\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Hanif\Documents\Matkul\MATKUL\SMT II\PemVis\UTS\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Hanif\Documents\Matkul\MATKUL\SMT II\PemVis\UTS\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Hanif\Documents\Matkul\MATKUL\SMT II\PemVis\UTS\WindowsApplication2\obj\x86\Debug\AppKasir.vbproj.AssemblyReference.cache
+C:\Users\Hanif\Documents\Matkul\MATKUL\SMT II\PemVis\UTS\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+C:\Users\Hanif\Documents\Matkul\MATKUL\SMT II\PemVis\UTS\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\Hanif\Documents\Matkul\MATKUL\SMT II\PemVis\UTS\WindowsApplication2\obj\x86\Debug\AppKasir.vbproj.GenerateResource.cache
+C:\Users\Hanif\Documents\Matkul\MATKUL\SMT II\PemVis\UTS\WindowsApplication2\obj\x86\Debug\AppKasir.vbproj.CoreCompileInputs.cache
+C:\Users\Hanif\Documents\Matkul\MATKUL\SMT II\PemVis\UTS\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Hanif\Documents\Matkul\MATKUL\SMT II\PemVis\UTS\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Hanif\Documents\Matkul\MATKUL\SMT II\PemVis\UTS\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
